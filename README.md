@@ -16,11 +16,11 @@ A chronological archive of my journey through the Java ecosystem. Instead of a f
 
 | # | Module | Key Takeaways | Status |
 | :--- | :--- | :--- | :--- |
-| 01 | **Fundamentals** | Syntax, Loops, File I/O | ✅ Complete |
-| 02 | **OOP** | The 4 Pillars of Object Oriented Programming | ✅ Complete |
-| 03 | **DSA** | Data Structures and Algos | ✅ Complete |
-| 04 | **GUI** | Building interfaces with Swing | ✅ Complete |
-| 05 | **Testing** | JUnit5 and Mockito frameworks | ✅ Complete |
+| 01 | **Fundamentals** | Syntax, Loops, File I/O | 🏗️ Soon to be Uploaded |
+| 02 | **OOP** | The 4 Pillars of Object Oriented Programming | 🏗️ Soon to be Uploaded |
+| 03 | **DSA** | Data Structures and Algos | 🏗️ Soon to be Uploaded |
+| 04 | **GUI** | Building interfaces with Swing | 🏗️ Soon to be Uploaded |
+| 05 | **Testing** | JUnit5 and Mockito frameworks | 🏗️ Soon to be Uploaded |
 
 ---
 
