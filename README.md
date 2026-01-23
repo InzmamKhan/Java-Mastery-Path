@@ -1,14 +1,6 @@
 # Java-Mastery-Path
 A meticulously organized collection of Java learning modules, organized by topic and chronological order of mastery.
 
-# Java Evolution ☕
-
-A chronological archive of my journey through the Java ecosystem. Instead of a fixed syllabus, this repository grows as I discover and master new concepts.
-
-## 🚀 Current Milestone
-**Currently Learning:** `Advanced Testing & Mockito` 
-*Next up: Exploring SpringBoot and Web development basics.*
-
 ---
 
 ## 📂 Knowledge Archive
