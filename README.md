@@ -20,7 +20,8 @@ A chronological archive of my journey through the Java ecosystem. Instead of a f
 | 02 | **OOP** | The 4 Pillars of Object Oriented Programming | 🏗️ Soon to be Uploaded |
 | 03 | **DSA** | Data Structures and Algos | 🏗️ Soon to be Uploaded |
 | 04 | **GUI** | Building interfaces with Swing | 🏗️ Soon to be Uploaded |
-| 05 | **Testing** | JUnit5 and Mockito frameworks | 🏗️ Soon to be Uploaded |
+| 05 | **JDBC** | Bridging a Connection to Database via Java Database Connectivity | 🏗️ Soon to be Uploaded |
+| 06 | **Testing** | JUnit5 and Mockito frameworks | 🏗️ Soon to be Uploaded |
 
 ---
 
