@@ -8,7 +8,7 @@ A meticulously organized collection of Java learning modules, organized by topic
 
 | # | Module | Key Takeaways | Status |
 | :--- | :--- | :--- | :--- |
-| 01 | **Fundamentals** | Syntax, Loops, File I/O | 🏗️ Soon to be Uploaded |
+| 01 | **Fundamentals** | Syntax, Loops, File I/O | ✅ Completed |
 | 02 | **OOP** | The 4 Pillars of Object Oriented Programming | 🏗️ Soon to be Uploaded |
 | 03 | **DSA** | Data Structures and Algos | 🏗️ Soon to be Uploaded |
 | 04 | **GUI** | Building interfaces with Swing | 🏗️ Soon to be Uploaded |
