@@ -13,7 +13,8 @@ A meticulously organized collection of Java learning modules, organized by topic
 | 03 | **DSA** | Data Structures and Algos | ✅ Completed |
 | 04 | **GUI** | Building interfaces with Swing | 🏗️ Soon to be Uploaded |
 | 05 | **JDBC** | Bridging a Connection to Database via Java Database Connectivity | 🏗️ Soon to be Uploaded |
-| 06 | **Testing** | JUnit5 and Mockito frameworks | 🏗️ Soon to be Uploaded |
+| 06 | **Testing** | JUnit5 | 🏗️ Soon to be Uploaded |
+| 07 | **Testing** | Mockito frameworks | 🏗️ Soon to be Uploaded |
 
 ---
 
