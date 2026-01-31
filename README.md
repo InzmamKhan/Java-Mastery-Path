@@ -1,8 +1,6 @@
 # Java-Mastery-Path ☕
 A meticulously organized collection of Java learning modules, organized by topic and chronological order of mastery.
 
----
-
 ## 📂 Knowledge Archive
 *These are the modules I have explored and documented so far, in order of completion:*
 
@@ -13,8 +11,10 @@ A meticulously organized collection of Java learning modules, organized by topic
 | 03 | **DSA** | Data Structures and Algos | ✅ Completed |
 | 04 | **GUI** | Building interfaces with Swing | ✅ Completed |
 | 05 | **JDBC** | Bridging a Connection to Database via Java Database Connectivity | ✅ Completed |
-| 06 | **Testing** | JUnit5 | 🏗️ Soon to be Uploaded |
-| 07 | **Testing** | Mockito frameworks | 🏗️ Soon to be Uploaded |
+| 06 | **Testing** | JUnit5 | ✅ Completed |
+| 07 | **Testing** | Mockito frameworks | ✅ Completed |
+| 08 | **Data Viz** | Data Viz using JFree Charts | 🏗️ Working On . . . |
+
 
 ---
 
