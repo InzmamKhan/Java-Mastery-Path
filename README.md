@@ -12,7 +12,7 @@ A meticulously organized collection of Java learning modules, organized by topic
 | 04 | **GUI** | Building interfaces with Swing | ✅ Completed |
 | 05 | **JDBC** | Bridging a Connection to Database via Java Database Connectivity | ✅ Completed |
 | 06 | **Testing** | JUnit5 | ✅ Completed |
-| 07 | **Testing** | Mockito frameworks | ✅ Completed |
+| 07 | **Testing** | Mockito frameworks | ✅ xyz|
 | 08 | **Data Viz** | Data Viz using JFree Charts | 🏗️ Working On . . . |
 
 
