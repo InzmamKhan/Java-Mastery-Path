@@ -9,12 +9,11 @@ A meticulously organized collection of Java learning modules, organized by topic
 | 01 | **Fundamentals** | Syntax, Loops, File I/O | ✅ Completed |
 | 02 | **OOP** | The 4 Pillars of Object Oriented Programming | ✅ Completed |
 | 03 | **DSA** | Data Structures and Algos | ✅ Completed |
-| 04 | **GUI** | Building interfaces with Swing | ✅ Completed |
+| 04 | **Swing** | Building Graphical User Interfaces with Swing | ✅ Completed |
 | 05 | **JDBC** | Bridging a Connection to Database via Java Database Connectivity | ✅ Completed |
-| 06 | **Testing** | JUnit5 | ✅ Completed |
-| 07 | **Testing** | Mockito frameworks | ✅ Completed |
-| 08 | **Data Viz** | Data Viz using JFree Charts | 🏗️ Working On . . . |
-
+| 06 | **JUnti5** | Unit Testing | ✅ Completed |
+| 07 | **Mockito** | Mocking & Spying Operations | ✅ Completed |
+| 08 | **JSoup** | Webscraping via Jsoup | 🏗️ Working On . . . |
 
 ---
 
