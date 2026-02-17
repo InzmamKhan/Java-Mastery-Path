@@ -15,7 +15,7 @@ A meticulously organized collection of Java learning modules, organized by topic
 | 07 | **Mockito** | Mocking & Spying Operations | ✅ Completed |
 | 08 | **JSoup** | Webscraping via Jsoup | 🏗️ Working On . . . |
 
----
+--- 
 
 ## 🛠️ The "Discovery" Log
 *New topics are added here as I encounter them in my learning path.*
