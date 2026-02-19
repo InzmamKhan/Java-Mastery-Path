@@ -12,7 +12,7 @@ A meticulously organized collection of Java learning modules, organized by topic
 | 04 | **Swing** | Building Graphical User Interfaces with Swing | ✅ Completed |
 | 05 | **JDBC** | Bridging a Connection to Database via Java Database Connectivity | ✅ Completed |
 | 06 | **JUnti5** | Unit Testing | ✅ Completed |
-| 07 | **Mockito** | Mocking & Spying Operations | ✅ Completed |
+| 07 | **Mockito** | Mocking & Spying Operations | ✅ Completed | 
 | 08 | **JSoup** | Webscraping via Jsoup | 🏗️ Working On . . . |
 
 --- 
