@@ -22,7 +22,7 @@ A meticulously organized collection of Java learning modules, organized by topic
 
 * **Logic & Patterns:** Applying Java to LeetCode and algorithmic thinking.
 * **Database Connectivity:** Connecting apps via JDBC.
-* **Future Interests:** (To be determined as I progress...)
+* **Future Interests:** (To be determined as I progress...) 
 
 ---
 
